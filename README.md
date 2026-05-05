@@ -18,3 +18,5 @@
 1. Виводу карток товарів на сайті.
 2. Фільтрації за ціною або категорією.
 3. Аналізу асортименту.
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/polinaopeo-boop/database/blob/main/Список
+_з_бази_даних.ipynb)
